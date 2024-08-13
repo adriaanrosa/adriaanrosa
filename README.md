@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Comecei minha jornada na programação e, claro, criando alguns bugs pelo caminho. Cada erro é uma oportunidade de aprender e evoluir..<br><br>📚  Estou atualmente focado em aprimorar minhas habilidades em desenvolvimento web, com especial atenção em JavaScript, HTML e CSS..<br><br>Meu objetivo a curto prazo é continuar desenvolvendo projetos web que sejam tanto funcionais quanto visualmente atraentes. A longo prazo, pretendo aprofundar meu conhecimento em frameworks modernos e otimizar minhas habilidades em UX/UI.<br><br>📚 Atualmente cursando Sistemas de Informação na [Uniasselvi](https://portal.uniasselvi.com.br/))
+<p align="left">✨ Comecei minha jornada na programação e, claro, criando alguns bugs pelo caminho. Cada erro é uma oportunidade de aprender e evoluir..<br><br>📚  Estou atualmente focado em aprimorar minhas habilidades em desenvolvimento web, com especial atenção em JavaScript, HTML e CSS..<br><br>Meu objetivo a curto prazo é continuar desenvolvendo projetos web que sejam tanto funcionais quanto visualmente atraentes. A longo prazo, pretendo aprofundar meu conhecimento em frameworks modernos e otimizar minhas habilidades em UX/UI.<br><br>📚 Atualmente cursando Sistemas de Informação na [Uniasselvi](https://portal.uniasselvi.com.br/).
 </p>
 
 ###
