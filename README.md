@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Comecei minha jornada na programação e desenvolvimento de software, sempre em busca de novas maneiras de melhorar minhas habilidades. No entanto, criar bugs faz parte do processo de aprendizado, e eu abraço essa parte do caminho, aprendendo com cada erro.<br><br>📚  Estou atualmente focado em aprimorar minhas habilidades em desenvolvimento web, com especial atenção em JavaScript, HTML e CSS. Além disso, estou explorando técnicas para criar interfaces mais interativas e responsivas, como a implementação de temas dark e light em projetos web.<br><br>Meu objetivo a curto prazo é continuar desenvolvendo projetos web que sejam tanto funcionais quanto visualmente atraentes. A longo prazo, pretendo aprofundar meu conhecimento em frameworks modernos e otimizar minhas habilidades em UX/UI.<br><br>📚 Atualmente estou no sexto semetre de Sistemas de Informação na @Uniasselvi</p>
+<p align="left">✨ Comecei minha jornada na programação e, claro, criando alguns bugs pelo caminho. Cada erro é uma oportunidade de aprender e evoluir..<br><br>📚  Estou atualmente focado em aprimorar minhas habilidades em desenvolvimento web, com especial atenção em JavaScript, HTML e CSS..<br><br>Meu objetivo a curto prazo é continuar desenvolvendo projetos web que sejam tanto funcionais quanto visualmente atraentes. A longo prazo, pretendo aprofundar meu conhecimento em frameworks modernos e otimizar minhas habilidades em UX/UI.<br><br>📚 Atualmente estou no sexto semetre de Sistemas de Informação na @Uniasselvi</p>
 
 ###
 
